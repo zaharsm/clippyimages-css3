@@ -2,6 +2,8 @@
 
 https://bennettfeely.com/clippy/
 
+#Delopyed - https://zaharsm.github.io/clippyimages-css3/
+
 <img src="clippyImage.png" >
 
 
